@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/NewTaskForm.tsx","./src/components/StatsCards.tsx","./src/components/TaskList.tsx","./src/lib/AuthContext.tsx","./src/lib/supabase.ts","./src/lib/types.ts","./src/lib/useTasks.ts","./src/pages/AuthPage.tsx","./src/pages/Dashboard.tsx"],"version":"5.9.3"}
